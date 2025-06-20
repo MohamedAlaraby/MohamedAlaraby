@@ -1,4 +1,6 @@
-## Hi there 👋
+## 💫 Hello, I'm Mohamed Alaraby!
+##Flutter Developer | Mobile Enthusiast | Problem Solver
+🚀 1.5+ years of experience crafting beautiful, performant cross-platform apps with Flutter. Passionate about clean code, smooth animations, and intuitive UX.
 
 <!--
 **MohamedAlaraby/MohamedAlaraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
