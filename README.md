@@ -1,4 +1,4 @@
-## 💫 Hello, I'm Mohamed Alaraby!
+## 💫 Hello, I'm Mohamed Alaraby
 ## Flutter Developer | Mobile Enthusiast | Problem Solver
 🚀 1.5+ years of experience crafting beautiful, performant cross-platform apps with Flutter. Passionate about clean code, smooth animations, and intuitive UX.
 
